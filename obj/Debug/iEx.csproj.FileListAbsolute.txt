@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\iEx\iEx\bin\Debug\iEx.exe.config
+C:\Users\Admin\source\repos\iEx\iEx\bin\Debug\iEx.exe
+C:\Users\Admin\source\repos\iEx\iEx\bin\Debug\iEx.pdb
+C:\Users\Admin\source\repos\iEx\iEx\obj\Debug\iEx.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\iEx\iEx\obj\Debug\iEx.Form1.resources
+C:\Users\Admin\source\repos\iEx\iEx\obj\Debug\iEx.Properties.Resources.resources
+C:\Users\Admin\source\repos\iEx\iEx\obj\Debug\iEx.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\iEx\iEx\obj\Debug\iEx.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\iEx\iEx\obj\Debug\iEx.exe
+C:\Users\Admin\source\repos\iEx\iEx\obj\Debug\iEx.pdb
+C:\Users\Admin\source\repos\iEx\iEx\obj\Debug\iEx.exe.config
